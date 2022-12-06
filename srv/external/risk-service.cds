@@ -1,4 +1,4 @@
-using { riskmanagement as rm } from '../db/schema';
+using { riskmanagement as rm } from '../../db/schema';
 
  @path: 'service/risk'
  service RiskService {
